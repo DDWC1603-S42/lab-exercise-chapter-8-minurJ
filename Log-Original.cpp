@@ -1,7 +1,7 @@
 #include <iostream>
 #include <string>
+#include LogH.h
 
-//#include "LogH.h"
 using namespace std;
 
 class Log
